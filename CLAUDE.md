@@ -31,13 +31,13 @@ This is part of the **Followly multi-repository architecture**:
 **Location:** `/Users/branko/repos/Followly-MacOS/`
 **Purpose:** macOS-specific implementation
 **Status:** 🔨 Not started
-**Framework:** .NET MAUI
+**Framework:** Swift 6.2, SwiftUI (native macOS)
 
 #### 🐧 Followly-Linux
 **Location:** `/Users/branko/repos/Followly-Linux/`
 **Purpose:** Linux-specific implementation
-**Status:** 🔨 Not started
-**Framework:** .NET MAUI
+**Status:** 🔨 Not started (LOW PRIORITY)
+**Framework:** TBD (GTK4/Rust or Electron)
 
 ### Other Followly Projects
 
@@ -70,8 +70,8 @@ This is part of the **Followly multi-repository architecture**:
 
 **Platform-specific code lives in:**
 - `Followly-Windows/` - WinUI 3 app (private repo)
-- `Followly-MacOS/` - MAUI macOS app (when started)
-- `Followly-Linux/` - MAUI Linux app (when started)
+- `Followly-MacOS/` - Native SwiftUI macOS app (when started)
+- `Followly-Linux/` - TBD (low priority)
 
 ---
 
@@ -113,12 +113,13 @@ A native desktop application that analyzes Instagram follower/following data exp
 ### macOS 🔨 Coming Soon
 - **Status:** Not started
 - **Target:** Q1 2026
-- **Framework:** .NET MAUI
+- **Framework:** Swift 6.2, SwiftUI (native macOS)
+- **Distribution:** Mac App Store + Direct DMG (notarized)
 
-### Linux 🔨 Coming Soon
+### Linux 🔨 Low Priority
 - **Status:** Not started
-- **Target:** Q1 2026
-- **Framework:** .NET MAUI
+- **Target:** TBD
+- **Framework:** TBD (GTK4/Rust or Electron)
 - **Formats:** AppImage, .deb, .rpm
 
 ---
@@ -262,9 +263,9 @@ A native desktop application that analyzes Instagram follower/following data exp
 ## 📊 Technology Stack
 
 ### Framework
-- **.NET 9** - Latest .NET runtime
+- **.NET 9** - Latest .NET runtime (Windows)
 - **WinUI 3** - Windows UI (Windows-specific)
-- **MAUI** - Cross-platform (macOS/Linux - planned)
+- **Swift 6.2 + SwiftUI** - Native macOS (macOS 26+)
 
 ### Libraries
 - **CsvHelper** - CSV parsing
