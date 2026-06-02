@@ -8,7 +8,7 @@ Native desktop application for analyzing Instagram followers and following data.
 
 ## 📦 Downloads
 
-Download the latest version from the [Releases](https://github.com/virtualox/Followly-Desktop/releases) page.
+Download the latest version from the [Releases](https://github.com/JustFoxLabs/Followly-Desktop/releases) page.
 
 ### Windows
 - **MSI Installer** (Recommended) - Full installer with graphical wizard
@@ -66,20 +66,20 @@ Automatic OS language detection with support for:
 ### Windows
 
 **MSI Installer (Recommended):**
-1. Download `Followly-X.X.X-Setup.msi` from [Releases](https://github.com/virtualox/Followly-Desktop/releases/latest)
+1. Download `Followly-X.X.X-Setup.msi` from [Releases](https://github.com/JustFoxLabs/Followly-Desktop/releases/latest)
 2. Run the installer
 3. Follow the installation wizard
 4. Launch from Start Menu or Desktop shortcut
 
 **Portable Version:**
-1. Download `Followly-X.X.X-Portable-x64.zip` from [Releases](https://github.com/virtualox/Followly-Desktop/releases/latest)
+1. Download `Followly-X.X.X-Portable-x64.zip` from [Releases](https://github.com/JustFoxLabs/Followly-Desktop/releases/latest)
 2. Extract to any folder
 3. Run `Followly.exe`
 
 ### macOS
 
 **DMG Installer:**
-1. Download `Followly-X.X.X-macOS.dmg` from [Releases](https://github.com/virtualox/Followly-Desktop/releases/latest)
+1. Download `Followly-X.X.X-macOS.dmg` from [Releases](https://github.com/JustFoxLabs/Followly-Desktop/releases/latest)
 2. Open the DMG file
 3. Drag Followly to Applications folder
 4. Launch from Applications or Spotlight
@@ -90,8 +90,8 @@ Automatic OS language detection with support for:
 
 Found a bug or have a feature request?
 
-1. **Check existing issues:** [View Issues](https://github.com/virtualox/Followly-Desktop/issues)
-2. **Create new issue:** [New Issue](https://github.com/virtualox/Followly-Desktop/issues/new)
+1. **Check existing issues:** [View Issues](https://github.com/JustFoxLabs/Followly-Desktop/issues)
+2. **Create new issue:** [New Issue](https://github.com/JustFoxLabs/Followly-Desktop/issues/new)
 
 ---
 
